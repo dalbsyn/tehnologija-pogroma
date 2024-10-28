@@ -1,6 +1,0 @@
-<<<<<<< HEAD
-print("Vafim is vadim")
-print("Vafim is vadim")
-=======
-ZZZZZ зоровья zzzzzzz
->>>>>>> 8aeac82
