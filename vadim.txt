@@ -1,1 +1,2 @@
 print("Vafim is vadim")
+print("Vafim is vadim")
